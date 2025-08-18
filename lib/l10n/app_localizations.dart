@@ -100,11 +100,41 @@ abstract class AppLocalizations {
     Locale('es'),
   ];
 
-  /// No description provided for @hellowWorld.
+  /// No description provided for @version.
   ///
   /// In en, this message translates to:
-  /// **'Hello World'**
-  String get hellowWorld;
+  /// **'Version'**
+  String get version;
+
+  /// No description provided for @welcomeBack.
+  ///
+  /// In en, this message translates to:
+  /// **'Welcome Back'**
+  String get welcomeBack;
+
+  /// No description provided for @enterYourEmailAndPassword.
+  ///
+  /// In en, this message translates to:
+  /// **'Enter your email and password'**
+  String get enterYourEmailAndPassword;
+
+  /// No description provided for @email.
+  ///
+  /// In en, this message translates to:
+  /// **'Email'**
+  String get email;
+
+  /// No description provided for @password.
+  ///
+  /// In en, this message translates to:
+  /// **'Password'**
+  String get password;
+
+  /// No description provided for @signIn.
+  ///
+  /// In en, this message translates to:
+  /// **'Sign In'**
+  String get signIn;
 }
 
 class _AppLocalizationsDelegate

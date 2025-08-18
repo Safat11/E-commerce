@@ -1,3 +1,8 @@
 {
-    "hellowWorld": "Hello World es"
+    "version": "Version [es]",
+    "welcomeBack": "Welcome Back [es]",
+    "enterYourEmailAndPassword": "Enter your email and password [es]",
+    "email": "Email [es]",
+    "password": "Password [es]",
+    "signIn": "Sign In [es]"
 }

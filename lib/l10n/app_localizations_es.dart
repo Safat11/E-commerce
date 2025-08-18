@@ -9,5 +9,20 @@ class AppLocalizationsEs extends AppLocalizations {
   AppLocalizationsEs([String locale = 'es']) : super(locale);
 
   @override
-  String get hellowWorld => 'Hello World es';
+  String get version => 'Version [es]';
+
+  @override
+  String get welcomeBack => 'Welcome Back [es]';
+
+  @override
+  String get enterYourEmailAndPassword => 'Enter your email and password [es]';
+
+  @override
+  String get email => 'Email [es]';
+
+  @override
+  String get password => 'Password [es]';
+
+  @override
+  String get signIn => 'Sign In [es]';
 }
