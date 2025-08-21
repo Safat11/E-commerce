@@ -4,5 +4,15 @@
     "enterYourEmailAndPassword": "Enter your email and password [es]",
     "email": "Email [es]",
     "password": "Password [es]",
-    "signIn": "Sign In [es]"
+    "signIn": "Sign In [es]",
+    "registerYourAccount": "Register your account [es]",
+    "getStartedWithYourDetails": "Get started with your details [es]",
+    "signUP": "Sign Up [es]",
+    "firstName": "First Name [es]",
+    "lastName": "Last Name [es]",
+    "phone": "Phone [es]",
+    "deliveryAddress": "Delivery Address [es]",
+    "enterYourOtpCode": "Enter your OTP code [es]",
+    "aFourDigitCodeHasBeenSent": "A four digits code has been sent to your email [es]",
+    "verify": "Verify [es]"
 }
