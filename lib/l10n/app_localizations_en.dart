@@ -56,4 +56,10 @@ class AppLocalizationsEn extends AppLocalizations {
 
   @override
   String get verify => 'Verify';
+
+  @override
+  String get seeAll => 'See All';
+
+  @override
+  String get categories => 'Categories';
 }

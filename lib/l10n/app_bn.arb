@@ -14,5 +14,7 @@
     "deliveryAddress": "Delivery Address [bn]",
     "enterYourOtpCode": "Enter your OTP code [bn]",
     "aFourDigitCodeHasBeenSent": "A four digits code has been sent to your email [bn]",
-    "verify": "Verify [bn]"
+    "verify": "Verify [bn]",
+    "seeAll": "See All [bn]",
+    "categories": "Categories [bn]"
 }

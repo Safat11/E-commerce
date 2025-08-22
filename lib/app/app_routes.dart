@@ -1,3 +1,4 @@
+import 'package:ecommerce/features/auth/ui/screens/main_buttom_nav_bar_screen.dart';
 import 'package:ecommerce/features/auth/ui/screens/sign_in_screen.dart';
 import 'package:ecommerce/features/auth/ui/screens/sign_up_screen.dart';
 import 'package:ecommerce/features/auth/ui/screens/splash_screen.dart';
@@ -13,9 +14,10 @@ class AppRoutes {
       route = const SignInScreen();
     } else if (settings.name == SignUpScreen.name) {
       route = const SignUpScreen();
-    }
-    else if (settings.name == VerifyOtpScreen.name) {
+    } else if (settings.name == VerifyOtpScreen.name) {
       route = const VerifyOtpScreen();
+    } else if (settings.name == MainButtomNavBarScreen.name) {
+      route = const MainButtomNavBarScreen();
     }
     return MaterialPageRoute(
       builder: (context) {
