@@ -1,7 +1,7 @@
 import 'package:ecommerce/app/app_colors.dart';
 import 'package:ecommerce/core/extensions/localization_extension.dart';
-import 'package:ecommerce/features/auth/ui/screens/verify_otp_screen.dart';
-import 'package:ecommerce/features/auth/ui/widgets/app_logo.dart';
+import 'package:ecommerce/features/common/ui/screens/verify_otp_screen.dart';
+import 'package:ecommerce/features/common/ui/widgets/app_logo.dart';
 import 'package:ecommerce/l10n/app_localizations.dart';
 import 'package:firebase_crashlytics/firebase_crashlytics.dart';
 import 'package:flutter/gestures.dart';

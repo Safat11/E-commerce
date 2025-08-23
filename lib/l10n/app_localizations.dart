@@ -207,6 +207,24 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'Categories'**
   String get categories;
+
+  /// No description provided for @popular.
+  ///
+  /// In en, this message translates to:
+  /// **'Popular'**
+  String get popular;
+
+  /// No description provided for @special.
+  ///
+  /// In en, this message translates to:
+  /// **'Special'**
+  String get special;
+
+  /// No description provided for @sNew.
+  ///
+  /// In en, this message translates to:
+  /// **'New'**
+  String get sNew;
 }
 
 class _AppLocalizationsDelegate

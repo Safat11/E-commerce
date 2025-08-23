@@ -62,4 +62,13 @@ class AppLocalizationsEs extends AppLocalizations {
 
   @override
   String get categories => 'Categories [es]';
+
+  @override
+  String get popular => 'Popular [es]';
+
+  @override
+  String get special => 'Special [es]';
+
+  @override
+  String get sNew => 'New [es]';
 }

@@ -62,4 +62,13 @@ class AppLocalizationsBn extends AppLocalizations {
 
   @override
   String get categories => 'Categories [bn]';
+
+  @override
+  String get popular => 'Popular [bn]';
+
+  @override
+  String get special => 'Special [bn]';
+
+  @override
+  String get sNew => 'New [bn]';
 }
