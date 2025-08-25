@@ -225,6 +225,10 @@ abstract class AppLocalizations {
   /// In en, this message translates to:
   /// **'New'**
   String get sNew;
+
+  String get wishlist => null;
+
+  String get productDetails => null;
 }
 
 class _AppLocalizationsDelegate
